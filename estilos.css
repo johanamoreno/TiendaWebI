@@ -1,0 +1,21 @@
+body{
+    background-image: url('img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+h3 {
+    text-align: center;
+    color: aliceblue;
+}
+textarea{
+    color: aliceblue;
+}
+.container img{
+align-items: center;
+display: block;
+margin: auto;
+}
